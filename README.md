@@ -1,4 +1,4 @@
-# Visual Question Answering with Amazon Berkeley Objects
+# Vision2Answer: Visual Question Answering Pipeline for E-commerce Product Images
 
 ## Objectives
 
